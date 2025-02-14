@@ -40,12 +40,10 @@ I actively participate in cybersecurity competitions, seminars, and conferences,
 
 ## Connect with Me 🤝
 
-- [GitHub](https://github.com/izzuddinafif) 🐱‍💻
 - [LinkedIn](https://www.linkedin.com/in/izzuddinafif/) 🔗
 - [Personal Website](https://izzudd.in/) 🌐
 - Email: [izzuddinafif@gmail.com](mailto:izzuddinafif@gmail.com) ✉️
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzuddinafif&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzuddinafif&layout=compact) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzuddinafif&show_icons=true)
 
