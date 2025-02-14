@@ -10,7 +10,7 @@ I am a proactive learner with expertise in:
 - **Cybersecurity:** Skilled in Reverse Engineering, Forensics, and Penetration Testing 🔍.
 - **Soft Skills:** Excellent problem-solving, critical and creative thinking, and teamwork 🤝.
 
-I actively participate in cybersecurity competitions, seminars, and conferences, and I’m proud to be a founding member of a cybersecurity community. My hands-on experience ranges from integrating security into development cycles to researching innovative solutions using modern technologies :contentReference[oaicite:0]{index=0}.
+I actively participate in cybersecurity competitions, seminars, and conferences, and I’m proud to be a founding member of a cybersecurity community. My hands-on experience ranges from integrating security into development cycles to researching innovative solutions using modern technologies.
 
 ## Education 🎓
 
@@ -47,7 +47,7 @@ I actively participate in cybersecurity competitions, seminars, and conferences,
 ## Github Statistics
 <p align="left">
 <a href="https://github.com/izzuddinafif">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izuddinafif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=izzuddinafif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=izzuddinafif&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
