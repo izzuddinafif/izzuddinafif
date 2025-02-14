@@ -44,6 +44,6 @@ I actively participate in cybersecurity competitions, seminars, and conferences,
 - [Personal Website](https://izzudd.in/) 🌐
 - Email: [izzuddinafif@gmail.com](mailto:izzuddinafif@gmail.com) ✉️
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzuddinafif&layout=compact) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzuddinafif&layout=compact)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzuddinafif&show_icons=true)
 
