@@ -26,11 +26,12 @@ I actively participate in cybersecurity competitions, seminars, and conferences,
 
 - **Project Intern, MALONE Group (Burton Office)**  
   *Aug 2021 – Present*  
-  - Developed innovative solutions such as a system for detecting corrugated road conditions using LoRa technology 🚗.
 
 - **Security Engineer Intern, PT. Sinergi Dimensi Informatika**  
   *Jan 2024 – Jun 2024*  
-  - Collaborated with development teams to integrate DevSecOps practices, performed static and dynamic application security testing, and enhanced data security with advanced measures 🔐.
+  - Collaborated with development teams to integrate DevSecOps practices
+  - Performed static and dynamic application security testing using Nuclei and SonarQube
+  - Enhanced data security through data-at-rest encryption and Redis ACL configuration.
 
 ## Publications 📚
 
