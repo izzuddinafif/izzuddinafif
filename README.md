@@ -25,7 +25,7 @@ I actively participate in cybersecurity competitions, seminars, and conferences,
 ## Experience 💼
 
 - **Project Intern, MALONE Group (Burton Office)**  
-  *Aug 2021 – Present*  
+  *Aug 2023 – Des 2023*  
 
 - **Security Engineer Intern, PT. Sinergi Dimensi Informatika**  
   *Jan 2024 – Jun 2024*  
