@@ -1,4 +1,4 @@
-# Izzuddin Ahmad Afif 🚀
+# Izzuddin Ahmad Afif
 
 Welcome to my GitHub profile repository! I'm an enthusiastic Internet Engineering Technology student with a strong passion for cybersecurity 🔒, AI 🤖, and blockchain. This repository is a collection of my projects, research, and experiences in technology and security.
 
