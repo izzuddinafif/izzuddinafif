@@ -16,9 +16,8 @@ Specializing in systems security, low-level programming (C/Go/Assembly), AI and 
 
 * **Languages:** Go, C, Python, JavaScript/TypeScript, Dart, x86 Assembly.
 * **Systems & Architecture:** Linux Administration, Computer Architecture (NAND2Tetris implementation), Hardware Interfacing.
-* **Web & Mobile:** Flutter, Node.js (DeepSeek integration), SSE Streaming.
+* **Web & Mobile:** Flutter.
 * **Blockchain & Data:** Hyperledger Fabric, Redis, SQL.
-* **Security & DevOps:** SAST/DAST (Nuclei, SonarQube), Docker, Encryption Standards.
 
 ---
 
