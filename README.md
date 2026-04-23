@@ -3,7 +3,7 @@
 **Internet Engineering Technology Graduate**
 *Surabaya, Indonesia*
 
-Specializing in systems security, low-level programming (C/Go/Assembly), AI and blockchain tech. Aspiring security researcher focusing on offensive security and malware R&D.
+Specializing in systems security, low-level programming, AI and blockchain tech. Aspiring security researcher focusing on offensive security and malware R&D.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-izzudd.in-blue?style=flat-square)](https://izzudd.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-izzuddinafif-0077B5?style=flat-square)](https://linkedin.com/in/izzuddinafif)
@@ -15,7 +15,7 @@ Specializing in systems security, low-level programming (C/Go/Assembly), AI and 
 ## 🛠 Technical Stack
 
 * **Languages:** Go, C, Python, JavaScript/TypeScript, Dart, x86 Assembly.
-* **Systems & Architecture:** Linux Administration, Computer Architecture (NAND2Tetris implementation), Hardware Interfacing.
+* **Systems & Architecture:** Linux Administration, Computer Architecture, Hardware Interfacing.
 * **Web & Mobile:** Flutter.
 * **Blockchain & Data:** Hyperledger Fabric, Redis, SQL.
 
